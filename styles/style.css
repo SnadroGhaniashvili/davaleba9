@@ -1,0 +1,22 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: flex-end;
+}
+.header {
+  display: flex;
+  padding: 18px;
+  align-items: center;
+}
+ul {
+  display: flex;
+}
+li a {
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  color: #636060;
+  margin-left: 50px;
+}
